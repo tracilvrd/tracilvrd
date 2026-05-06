@@ -16,12 +16,11 @@ My work centers on AWS, where I build infrastructure and backend systems that re
 
 **Cloud & Infrastructure**
 
-* AWS (S3, EC2, Lambda, IAM, API Gateway, CloudWatch, DynamoDB, CloudFront, Route 53)
+* AWS (S3, EC2, Lambda, IAM, API Gateway, CloudWatch, DynamoDB)
 
 **DevOps & Automation**
 
 * GitHub Actions (CI/CD)
-* Docker
 * Linux & CLI workflows
 
 **Languages**
